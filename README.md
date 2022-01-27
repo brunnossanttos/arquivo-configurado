@@ -1,2 +1,1 @@
-# api-vendas
-node-express estudos
+Arquivo com configurações editadas 
